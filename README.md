@@ -21,16 +21,6 @@
 - 📫 联系方式：`891139216@qq.com`
 
 ---
-
-## 🧰 技术栈
-
-- **Backend**: Java, Spring Boot, MyBatis, Redis, MySQL
-- **AI**: LangChain4j, OpenAI-Compatible API
-- **Frontend**: Vue（项目协作与全栈实践）
-- **Tools**: Git, Maven, Docker（学习中）
-
----
-
 ## 🚀 代表项目
 
 ### 1) [lcs-ai-code](https://github.com/lichunzuishuai/lcs-ai-code)
@@ -40,12 +30,6 @@
 - 包含多种代码生成模式（HTML / 多文件 / Vue 工程）
 - 结合 Redis、MySQL 实现会话与数据持久化
 
-### 2) [beauty-backend](https://github.com/lichunzuishuai/beauty-backend)
-> 化妆师预约平台
-
-- 支持在线预约、套餐购买、角色申请等业务流程
-- 关注真实业务场景下的接口设计与数据模型
-
 ### 3) [cool-stack](https://github.com/lichunzuishuai/cool-stack)
 > Redis 实战型项目
 
@@ -53,16 +37,6 @@
 - 练习高并发下的设计思路与性能优化
 
 ---
-
-## 📈 GitHub 数据
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lichunzuishuai&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichunzuishuai&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ✨ 一句话
 
 > 保持热爱，持续输出。  
